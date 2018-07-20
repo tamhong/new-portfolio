@@ -54,10 +54,6 @@ h3 {
     text-decoration: none;
 }
 
-.screenshots {
-    width: 600px;
-    height: 330px;
-}
 
 .screenshots:hover{
     box-shadow: 2px 2px 5px grey;
