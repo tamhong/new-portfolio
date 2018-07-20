@@ -63,6 +63,7 @@ h3 {
     position: fixed;
     top: 50%;
     left: 90%;
+    z-index: 10;
 }
 
 .icons {
