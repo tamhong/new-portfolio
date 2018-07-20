@@ -50,13 +50,17 @@ h3 {
 }
 
 #down:hover {
-    color: darkgray;
+    color: purple;
     text-decoration: none;
 }
 
 .screenshots {
     width: 600px;
     height: 330px;
+}
+
+.screenshots:hover{
+    box-shadow: 2px 2px 5px grey;
 }
 
 #iconic {
@@ -68,6 +72,11 @@ h3 {
 .icons {
     color: darkgray;
 
+}
+
+.icons:hover {
+    color: purple;
+    text-decoration: none;
 }
 
 

@@ -1,27 +1,3 @@
-// $('#down').click(function() {
-//     $('.container').slideUp();
-// });
-
-// $('html, body').animate ({
-//     scrollTop: 
-// })
-
-// $(document).ready(function(){
-//     $("#down").on("click", function(event) {
-//         if (this.hash !== "") {
-//             event.preventDefault();
-
-//             var hash = this.hash;
-
-//             $("#container").animate ({
-//                 scrollTop: $(hash).offset().top
-//             }, 800, function () {
-//                 window.location.hash = hash;
-//             });
-//         };
-//     });
-// });
-
 $(document).ready(function(){
   // Add smooth scrolling to all links
   $("a").on('click', function(event) {
