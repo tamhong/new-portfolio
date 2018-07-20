@@ -1,0 +1,76 @@
+body, html, #container {
+    height: 100%;
+}
+
+.jumbotron {
+    height: 300px;
+    margin-bottom: 0px;
+    background-image: url("../images/sandiego.jpg");
+    background-position: 100% 40%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius:0;
+    color: white;
+    margin: 6px 6px 6px 6px;
+}
+
+h1 {
+    font-family: 'Rochester', cursive;
+    font-size: 60px;
+    color: black;
+    position: fixed;
+    left: 55%;
+    top: 10%;
+}
+
+#me {
+    height: 200px;
+    border-radius: 50%;
+    background-color: white;
+    border: 6px solid #fff;
+    box-shadow: 0 0 0 1px black;
+}
+
+h2 {
+    font-family: 'Poiret One', cursive;
+    font-size: 60px;
+}
+
+h3 {
+    font-family: 'Poiret One', cursive;
+    font-size: 27px;
+}
+
+#aboutme {
+    height: 200px;
+}
+
+#down {
+    color: darkgray;
+}
+
+#down:hover {
+    color: darkgray;
+    text-decoration: none;
+}
+
+.screenshots {
+    width: 600px;
+    height: 330px;
+}
+
+#iconic {
+    position: fixed;
+    top: 50%;
+    left: 90%;
+}
+
+.icons {
+    color: darkgray;
+
+}
+
+
+
+
+
